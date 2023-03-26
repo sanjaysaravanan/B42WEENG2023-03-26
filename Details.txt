@@ -1,0 +1,37 @@
+
+Topics:
+
+  Create an application like below,
+  with Option for the following,
+    1. Add a New Movie
+    2. Edit a Movie
+    3. Delete a Movie
+    4. Add to Watch List, Remove from Watch List
+
+  passing data from child to parent
+
+Lifecycle of a Component
+  Mounting ---> Component is Been added to the DOM
+  Updating ---> State/Props update inside a component
+  Unmounting ---> Component is removed from the DOM
+
+  state( dynamic data inside the component which changes depends on the interaction ) 
+    vs 
+  props( attribute date passed from parent )
+
+  props drilling
+  
+
+useState, useEffect
+Create an application like below with Mock APIs,
+  with Option for the following,
+    1. Add a New Movie (  )
+    2. Edit a Movie
+    3. Delete a Movie
+    4. Like, Dislike
+
+
+Complete Both the below Task before coming to Next Session: 
+  1. Day-20 Price Table --> https://startbootstrap.com/snippets/pricing-table
+  2. Day-21 https://startbootstrap.com/previews/shop-homepage
+  3. Day-23 // CRUD - Create,Read,Update,Delete --> users
