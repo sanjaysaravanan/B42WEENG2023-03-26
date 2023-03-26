@@ -31,7 +31,7 @@ Create an application like below with Mock APIs,
     4. Like, Dislike
 
 
-Complete Both the below Task before coming to Next Session: 
+Complete the below Task before coming to Next Session: 
   1. Day-20 Price Table --> https://startbootstrap.com/snippets/pricing-table
   2. Day-21 https://startbootstrap.com/previews/shop-homepage
   3. Day-23 // CRUD - Create,Read,Update,Delete --> users
